@@ -1,2 +1,2 @@
 # MovieHooks
-Create a mivieapp using react hooks
+Create a movie app using react hooks
